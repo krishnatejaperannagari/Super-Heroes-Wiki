@@ -1,0 +1,33 @@
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\bin\Release\Super Heroes Wiki.exe
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\bin\Release\Super Heroes Wiki.pdb
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\bin\Release\resources.pri
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\bin\Release\AppxManifest.xml
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\bin\Release\Super Heroes Wiki.build.appxrecipe
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\App.g.i.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\App.g.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\Common\StandardStyles.g.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\GroupedItemsPage.g.i.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\GroupedItemsPage.g.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\GroupDetailPage.g.i.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\GroupDetailPage.g.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\ItemDetailPage.g.i.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\ItemDetailPage.g.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\XamlTypeInfo.g.cs
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\App.xaml
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\Common\StandardStyles.xaml
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\GroupedItemsPage.xaml
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\GroupDetailPage.xaml
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\ItemDetailPage.xaml
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\Super Heroes Wiki.exe
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\Super Heroes Wiki.pdb
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\priconfig.xml.intermediate
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\layout.resfiles.intermediate
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\resources.resfiles.intermediate
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\pri.resfiles.intermediate
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\priconfig.xml
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\layout.resfiles
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\resources.resfiles
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\pri.resfiles
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\LanguageQualifiers.txt
+C:\Users\teja\Documents\Visual Studio 2012\Projects\Super Heroes Wiki\obj\Release\ProjectArchitectures.txt
